@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EMERGENCY</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="is">INSTANT BUTTON</string>
+    <string name="hos">HOSPITAL</string>
+    <string name="pol">POLICE</string>
+    <string name="oth">OTHERS</string>
+    <string name="im">TAKE IMAGE</string>
+    <string name="vi">ADD VIDEO</string>
+    <string name="nu">NUMBER OF VICTIMS</string>
+    <string name="et">EDIT TEXT</string>
+    <string name="victims"> NUMBER OF VICTIMS</string>
+    <string name="cd">CULPRIT DETAILS</string>
+    <string name="vd">VICTIM DETAILS</string>
+    <string name="cn">CULPRIT NAME</string>
+    <string name="cvno">VEHICLE NUMBER</string>
+    <string name="vn">VICTIM NAME</string>
+    <string name="ph">PHONE NUMBER</string>
+    <string name="vvno">VEHICLE NUMBER</string>
+    <string name="description">Dont know what to write </string>
+    <string name="set">PM</string>
+    <string name="n1">NUMBER</string>
+    <string name="sm">ENTER SMS</string>
+    <string name="smss">SMS</string>
+    <string name="send">SEND</string>
+    
+    
+    
+</resources>
